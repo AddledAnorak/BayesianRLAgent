@@ -155,6 +155,10 @@ python -m src.reporting.daily_report
 - ✅ 15 RL techniques tracked with 37+ evidence points
 - ✅ Complete Bayesian belief updating with uncertainty quantification
 
+**Incoming Updates:**
+- Improved content analysis
+- Automatic search and analysis of RL-related and applied RL fields
+
 ## References
 
 - O'Donoghue et al. "The Uncertainty Bellman Equation and Exploration" ([arXiv:1709.05380](https://arxiv.org/abs/1709.05380))
